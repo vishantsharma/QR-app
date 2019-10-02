@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:#33BEFF;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,4 +27,14 @@
   height: 20px;
   width: 200px;
   margin: 10px 10px;
+}
+.select-form-field {
+  width: 150px
+}
+.MuiInputBase-formControl {
+  width: 150px
+}
+.customer-name {
+  background-color: black;
+  margin-top: 20px
 }
