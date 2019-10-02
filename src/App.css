@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -18,5 +19,12 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: black;
+  height: 150px;
+  margin-bottom: 20px;
+}
+.user-details {
+  height: 20px;
+  width: 200px;
+  margin: 10px 10px;
 }
